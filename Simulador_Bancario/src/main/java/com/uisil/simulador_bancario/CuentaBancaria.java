@@ -57,15 +57,5 @@ public class CuentaBancaria {
         return saldo;
     }
     /// Metodo de menu///
-    public void menu(){
-    System.out.println("\n--- Menu Principal ---");
-                System.out.println("1. Crear una cuenta ");
-                System.out.println("2. Depositar Dinero ");
-                System.out.println("3. Retirar Dinero ");
-                System.out.println("4. Consultar Saldo ");
-                System.out.println("5. Dividir Saldo ");
-                System.out.println("6. Salir del Programa ");
-                System.out.print("Ingrese alguna opcion: ");
-                System.out.println();
-    }
+
 }
